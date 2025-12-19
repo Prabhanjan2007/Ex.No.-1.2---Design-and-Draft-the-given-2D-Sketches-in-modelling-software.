@@ -36,6 +36,10 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+[EX1.2.pdf](https://github.com/user-attachments/files/24257737/EX1.2.pdf)
+![EX1 2_page-0001](https://github.com/user-attachments/assets/b9442340-7d72-4218-a278-e9944dc7b279)
+
+
  
  
  ## RESULT
